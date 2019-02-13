@@ -1,5 +1,7 @@
 # meteor-game
 
+UPDATE (12Feb2019): this was my first attempt at OOP. Much of the code is repetitive and I learned alot from it; I have left this untouched so I can look back upon it later.
+
 ## Description
 
 Meteor is a game wherein the user controls a UFO object, and attempts to survive as long as possible 
