@@ -1,6 +1,6 @@
-#meteor-game
+# meteor-game
 
-##Description
+## Description
 
 Meteor is a game wherein the user controls a UFO object, and attempts to survive as long as possible 
 by avoiding contact with any flying meteors. The game ends upon contact with a meteor, and the player's
